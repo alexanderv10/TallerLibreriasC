@@ -1,0 +1,11 @@
+C:\Users\alexa\Documents\VSC\Construccion\Taller\LibreriasC#\MiLibreria\bin\Debug\net8.0\MiLibreria.deps.json
+C:\Users\alexa\Documents\VSC\Construccion\Taller\LibreriasC#\MiLibreria\bin\Debug\net8.0\MiLibreria.dll
+C:\Users\alexa\Documents\VSC\Construccion\Taller\LibreriasC#\MiLibreria\bin\Debug\net8.0\MiLibreria.pdb
+C:\Users\alexa\Documents\VSC\Construccion\Taller\LibreriasC#\MiLibreria\obj\Debug\net8.0\MiLibreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Documents\VSC\Construccion\Taller\LibreriasC#\MiLibreria\obj\Debug\net8.0\MiLibreria.AssemblyInfoInputs.cache
+C:\Users\alexa\Documents\VSC\Construccion\Taller\LibreriasC#\MiLibreria\obj\Debug\net8.0\MiLibreria.AssemblyInfo.cs
+C:\Users\alexa\Documents\VSC\Construccion\Taller\LibreriasC#\MiLibreria\obj\Debug\net8.0\MiLibreria.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\VSC\Construccion\Taller\LibreriasC#\MiLibreria\obj\Debug\net8.0\MiLibreria.dll
+C:\Users\alexa\Documents\VSC\Construccion\Taller\LibreriasC#\MiLibreria\obj\Debug\net8.0\refint\MiLibreria.dll
+C:\Users\alexa\Documents\VSC\Construccion\Taller\LibreriasC#\MiLibreria\obj\Debug\net8.0\MiLibreria.pdb
+C:\Users\alexa\Documents\VSC\Construccion\Taller\LibreriasC#\MiLibreria\obj\Debug\net8.0\ref\MiLibreria.dll
